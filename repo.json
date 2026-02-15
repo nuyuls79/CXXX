@@ -1,0 +1,10 @@
+{
+    "name": "WadukStream",
+    "description": "Cloudstream XXX Collection",
+    "iconUrl": "https://ibb.co.com/9mdpbhNh",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/nuyuls79/CXXX/refs/heads/builds/plugins.json"
+    ]
+}
+
